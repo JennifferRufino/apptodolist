@@ -18,4 +18,4 @@
 <span>OBS: VOCÊ DEVE TER O NODEJS instalado em sua máquina! </span>
 <br>
 
-<u><footer>Feito com ❤ por JENNIFFER RUFINO</footer></u>
+<strong><footer text-align="center">Feito com ❤ por JENNIFFER RUFINO</footer></strong>
