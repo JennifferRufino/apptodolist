@@ -7,16 +7,15 @@
 <ul>
     <li><u>React Native</u></li>
     <li><u>Expo</u></li>
-    <li></li>
-    <li></li>
 </ul>
 
 <h1>❓ COMO UTILIZAR</h1>
-<p>Instale o aplicativo <u>EXPO</u> no smarphone.</p>
+<p>Instale o aplicativo <u>EXPO</u> no smartphone.</p>
 <br>
 <p>Abra, no terminal, a pasta referente a esse arquivo.</p>
 <p>Dê um <i>npm run start</i></p>
 <br>
 <span>OBS: VOCÊ DEVE TER O NODEJS instalado em sua máquina! </span>
+<br>
 
-<footer>Feito com ❤ por JENNIFFER RUFINO</footer>
+<u><footer>Feito com ❤ por JENNIFFER RUFINO</footer></u>
